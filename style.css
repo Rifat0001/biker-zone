@@ -20,3 +20,19 @@
     width: 7%;
     border: 1px solid #E76F51;
 }
+
+.f-1 a {
+    text-decoration: none;
+    color: white;
+}
+
+.f-2 a {
+    text-decoration: none;
+    color: white;
+}
+
+@media screen and (max-width:576px) {
+    .f-3 {
+        text-align: center;
+    }
+}
